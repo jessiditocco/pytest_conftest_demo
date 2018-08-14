@@ -1,0 +1,7 @@
+[
+  "test_module.py::test_ehlo[smtp.gmail.com]",
+  "test_module.py::test_noop[smtp.gmail.com]",
+  "test_module.py::test_ehlo[mail.python.org]",
+  "test_module.py::test_noop[mail.python.org]",
+  "test_module.py::test_customer_records"
+]
